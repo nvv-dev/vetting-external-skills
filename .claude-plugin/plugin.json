@@ -1,0 +1,16 @@
+{
+  "name": "vetting-external-skills",
+  "version": "0.1.0",
+  "description": "Read without running, SkillSpector scan, fit and cost check, pin to a commit, record in a lockfile, credit the source.",
+  "author": {
+    "name": "nvvdev",
+    "url": "https://github.com/nvv-dev"
+  },
+  "homepage": "https://github.com/nvv-dev/vetting-external-skills",
+  "repository": "https://github.com/nvv-dev/vetting-external-skills",
+  "license": "MIT",
+  "keywords": [
+    "skill",
+    "agent-guardrails"
+  ]
+}
